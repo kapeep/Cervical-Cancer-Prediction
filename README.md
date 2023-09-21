@@ -1,5 +1,6 @@
- <centre><img width="500" alt="2022-04-09_122409" src="https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/6ef83656-060c-4e54-86de-964bc64a1b0c"> 
-                             
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117251015/269646058-fa46ed3a-7668-4c24-9f1c-5e1dafe2ea7f.png" />
+</p>                             
 
 # Introduction
 Cervical cancer prediction is a critical area of healthcare that focuses on identifying individuals who are at a higher risk of developing cervical cancer. This type of cancer primarily affects the cervix, the lower part of the uterus, and is often linked to the human papillomavirus (HPV) infection. Early detection and prediction of cervical cancer are essential for timely intervention and improved patient outcomes.
